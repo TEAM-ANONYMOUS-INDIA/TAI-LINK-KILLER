@@ -1,3 +1,5 @@
+![TAI-LINK KILLER](https://i.ibb.co/Pvb58Gmq/IMG-20250202-153300.jpg)
+
 # 🚀 TAI-LINK KILLER  
 **The Ultimate Website Security Scanner**  
 
@@ -19,14 +21,14 @@ python3 main.py
 # 🔍 Enter the target website URL and let the tool handle the rest!
 
 
-### 🛡️ Features
+# 🛡️ Features
 
-# ✅ Extracts & Analyzes Links
-# ✅ Finds Admin Panels & Secure Pages
-# ✅ Google Dorks Generator for OSINT
-# ✅ Detects Web Application Firewalls (WAFs)
-# ✅ Identifies Open Redirects & Header Weaknesses
-# ✅ Scans for SQLi, XSS, and Common Vulnerabilities
+### ✅ Extracts & Analyzes Links
+### ✅ Finds Admin Panels & Secure Pages
+### ✅ Google Dorks Generator for OSINT
+### ✅ Detects Web Application Firewalls (WAFs)
+### ✅ Identifies Open Redirects & Header Weaknesses
+### ✅ Scans for SQLi, XSS, and Common Vulnerabilities
 
 ## ⚠️ Disclaimer
 
