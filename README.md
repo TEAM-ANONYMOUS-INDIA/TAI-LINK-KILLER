@@ -3,28 +3,23 @@
 
 🔗 **Official Repository:** [TEAM ANONYMOUS INDIA - TAI-LINK-KILLER](https://github.com/TEAM-ANONYMOUS-INDIA/TAI-LINK-KILLER)  
 
----
-
 ## ⚡ Installation  
 
-```sh
+```
 git clone https://github.com/TEAM-ANONYMOUS-INDIA/TAI-LINK-KILLER
 cd TAI-LINK-KILLER
 pip install -r requirements.txt
+```
 
-
----
-
-🎯 Usage
-
+### 🎯 Usage
+```
 python3 main.py
+```
 
-🔍 Enter the target website URL and let the tool handle the rest!
+# 🔍 Enter the target website URL and let the tool handle the rest!
 
 
----
-
-🛡️ Features
+### 🛡️ Features
 
 ✅ Extracts & Analyzes Links
 ✅ Finds Admin Panels & Secure Pages
@@ -33,16 +28,10 @@ python3 main.py
 ✅ Identifies Open Redirects & Header Weaknesses
 ✅ Scans for SQLi, XSS, and Common Vulnerabilities
 
-
----
-
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool is for cybersecurity research & educational purposes only.
 Unauthorized use without permission is illegal. Use responsibly.
-
-
----
 
 © TEAM ANONYMOUS INDIA
 
