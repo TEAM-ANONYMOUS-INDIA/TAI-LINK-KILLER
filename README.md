@@ -21,12 +21,12 @@ python3 main.py
 
 ### 🛡️ Features
 
-✅ Extracts & Analyzes Links
-✅ Finds Admin Panels & Secure Pages
-✅ Google Dorks Generator for OSINT
-✅ Detects Web Application Firewalls (WAFs)
-✅ Identifies Open Redirects & Header Weaknesses
-✅ Scans for SQLi, XSS, and Common Vulnerabilities
+# ✅ Extracts & Analyzes Links
+# ✅ Finds Admin Panels & Secure Pages
+# ✅ Google Dorks Generator for OSINT
+# ✅ Detects Web Application Firewalls (WAFs)
+# ✅ Identifies Open Redirects & Header Weaknesses
+# ✅ Scans for SQLi, XSS, and Common Vulnerabilities
 
 ## ⚠️ Disclaimer
 
